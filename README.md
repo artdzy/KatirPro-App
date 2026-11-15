@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/artdzy/katirpro-releases/releases/latest/download/KatirPro-mac-arm64.dmg"><img src="https://img.shields.io/badge/Download%20for%20Mac-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>
-  <a href="https://github.com/artdzy/katirpro-releases/releases/latest/download/KatirPro-Setup-win-x64.exe"><img src="https://img.shields.io/badge/Download%20for%20Windows-10%20%2F%2011-0078D4?style=for-the-badge" alt="Download for Windows"></a>
+  <a href="https://github.com/artdzy/KatirPro-App/releases/latest/download/KatirPro-mac-arm64.dmg"><img src="https://img.shields.io/badge/Download%20for%20Mac-Apple%20Silicon-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac"></a>
+  <a href="https://github.com/artdzy/KatirPro-App/releases/latest/download/KatirPro-Setup-win-x64.exe"><img src="https://img.shields.io/badge/Download%20for%20Windows-10%20%2F%2011-0078D4?style=for-the-badge" alt="Download for Windows"></a>
   <a href="https://apps.apple.com/app/id6815226267"><img src="https://img.shields.io/badge/App%20Store-iPhone%20%26%20iPad-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="App Store"></a>
-  <a href="https://github.com/artdzy/katirpro-releases/releases/latest/download/KatirPro-Premiere.zxp"><img src="https://img.shields.io/badge/Premiere%20Pro-extension-9999FF?style=for-the-badge" alt="Premiere Pro extension"></a>
+  <a href="https://github.com/artdzy/KatirPro-App/releases/latest/download/KatirPro-Premiere.zxp"><img src="https://img.shields.io/badge/Premiere%20Pro-extension-9999FF?style=for-the-badge" alt="Premiere Pro extension"></a>
 </p>
 
 <p align="center">
@@ -10,15 +10,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/artdzy/katirpro-releases/releases/latest"><img src="https://img.shields.io/github/v/release/artdzy/katirpro-releases?label=latest&color=7c5cff" alt="Latest release"></a>
-  <a href="https://github.com/artdzy/katirpro-releases/releases"><img src="https://img.shields.io/github/downloads/artdzy/katirpro-releases/total?label=downloads&color=5ea3f5" alt="Total downloads"></a>
+  <a href="https://github.com/artdzy/KatirPro-App/releases/latest"><img src="https://img.shields.io/github/v/release/artdzy/KatirPro-App?label=latest&color=7c5cff" alt="Latest release"></a>
+  <a href="https://github.com/artdzy/KatirPro-App/releases"><img src="https://img.shields.io/github/downloads/artdzy/KatirPro-App/total?label=downloads&color=5ea3f5" alt="Total downloads"></a>
   <img src="https://img.shields.io/badge/price-free-34d399" alt="Free">
   <img src="https://img.shields.io/badge/languages-English%20%7C%20Turkish-555" alt="English and Turkish">
 </p>
 
 <p align="center">
   <a href="https://katirpro.com">Website</a> ·
-  <a href="https://github.com/artdzy/katirpro-releases/releases">Release notes</a> ·
+  <a href="https://github.com/artdzy/KatirPro-App/releases">Release notes</a> ·
   <a href="https://katirpro.com/destek">Support</a> ·
   <a href="#turkce">🇹🇷 Türkçe</a>
 </p>
@@ -27,10 +27,10 @@
 
 | Platform | File | Requirements |
 |---|---|---|
-| **Mac** | [KatirPro-mac-arm64.dmg](https://github.com/artdzy/katirpro-releases/releases/latest/download/KatirPro-mac-arm64.dmg) | Apple Silicon (M1 or later), macOS 13 Ventura or later |
-| **Windows** | [KatirPro-Setup-win-x64.exe](https://github.com/artdzy/katirpro-releases/releases/latest/download/KatirPro-Setup-win-x64.exe) | Windows 10 / 11, 64-bit |
+| **Mac** | [KatirPro-mac-arm64.dmg](https://github.com/artdzy/KatirPro-App/releases/latest/download/KatirPro-mac-arm64.dmg) | Apple Silicon (M1 or later), macOS 13 Ventura or later |
+| **Windows** | [KatirPro-Setup-win-x64.exe](https://github.com/artdzy/KatirPro-App/releases/latest/download/KatirPro-Setup-win-x64.exe) | Windows 10 / 11, 64-bit |
 | **iPhone / iPad** | [App Store](https://apps.apple.com/app/id6815226267) | iOS / iPadOS 18 or later |
-| **Premiere Pro** | [KatirPro-Premiere.zxp](https://github.com/artdzy/katirpro-releases/releases/latest/download/KatirPro-Premiere.zxp) | Premiere Pro 2020 or later (Beta too) |
+| **Premiere Pro** | [KatirPro-Premiere.zxp](https://github.com/artdzy/KatirPro-App/releases/latest/download/KatirPro-Premiere.zxp) | Premiere Pro 2020 or later (Beta too) |
 
 - **Mac:** open the `.dmg` and drag KatırPro into Applications. The app is signed and notarized by Apple.
 - **Windows:** if SmartScreen says “Windows protected your PC”, click **More info › Run anyway**. It only asks once.
@@ -69,7 +69,7 @@ MP4, MOV, MKV and WebM. Exports use the same format as the source.
 No, the Mac version is for Apple Silicon (M1 or later). Speech recognition runs on the GPU on Mac and on the CPU on Windows.
 </details>
 
-Found a bug or have an idea? [Open an issue](https://github.com/artdzy/katirpro-releases/issues). This repository hosts the installers and release notes; the app's source code is not published here.
+Found a bug or have an idea? [Open an issue](https://github.com/artdzy/KatirPro-App/issues). This repository hosts the installers and release notes; the app's source code is not published here.
 
 ---
 
@@ -88,10 +88,10 @@ Found a bug or have an idea? [Open an issue](https://github.com/artdzy/katirpro-
 
 | Platform | İndir | Gereksinim |
 |---|---|---|
-| Mac | [.dmg](https://github.com/artdzy/katirpro-releases/releases/latest/download/KatirPro-mac-arm64.dmg) | Apple Silicon, macOS 13+ |
-| Windows | [.exe](https://github.com/artdzy/katirpro-releases/releases/latest/download/KatirPro-Setup-win-x64.exe) | Windows 10 / 11, 64-bit |
+| Mac | [.dmg](https://github.com/artdzy/KatirPro-App/releases/latest/download/KatirPro-mac-arm64.dmg) | Apple Silicon, macOS 13+ |
+| Windows | [.exe](https://github.com/artdzy/KatirPro-App/releases/latest/download/KatirPro-Setup-win-x64.exe) | Windows 10 / 11, 64-bit |
 | iPhone / iPad | [App Store](https://apps.apple.com/tr/app/kat%C4%B1rpro/id6815226267) | iOS 18+ |
-| Premiere Pro | [.zxp](https://github.com/artdzy/katirpro-releases/releases/latest/download/KatirPro-Premiere.zxp) | Premiere Pro 2020+, ZXP Installer ile kur |
+| Premiere Pro | [.zxp](https://github.com/artdzy/KatirPro-App/releases/latest/download/KatirPro-Premiere.zxp) | Premiere Pro 2020+, ZXP Installer ile kur |
 
 Windows'ta “Windows bilgisayarınızı korudu” uyarısı çıkarsa **Ek bilgi › Yine de çalıştır**'a tıkla. Sorular için: [katirpro.com/destek](https://katirpro.com/destek)
 
